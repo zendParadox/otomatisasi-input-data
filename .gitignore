@@ -1,0 +1,11 @@
+Lib/
+Scripts/
+Include/
+
+source-code/transaksi-barang-keluar.py
+source-code/transaksi-barang-masuk.py
+
+dataset/data-barang-keluar.xlsx
+dataset/data-barang-masuk-1.xlsx
+
+pyvenv.cfg
